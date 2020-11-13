@@ -1,4 +1,5 @@
 %%% Test xomment in Prolog
+
 base_score(might, 11).
 base_score(skill, 12).
 base_score(wits, 16).
