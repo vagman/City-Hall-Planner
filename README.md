@@ -15,6 +15,8 @@
 
 * [Για φοιτητές με επώνυμο από Υ έως Ω] Δεδομένου του κατηγορήματος child/1 child(X):- family(_, _, Children), member(X, Children). ορίστε το κατηγόρημα twins(Childl, Child2) και χρησιμοποιήστε τα για να βρείτε δίδυμα αδέρφια. Εναλλακτικά (αν δεν καταφέρετε το παραπάνω), πάλι δεδομένου του child/1 βρείτε όλα τα παιδιά που εργάζονται.
 
+![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1.png)
+
 ## General Info
 * This is indivisual work of mine at 5th semester.
 * Programming Language: [Prolog](https://www.swi-prolog.org/)
