@@ -3,3 +3,4 @@ family(
     person(ann, fox, date(9, may, 1951), unemployed),
     [person(pat, fox, date(5, may, 1973), unemployed),
     person(jim, fox, date(5, may, 1973), unemployed)]).
+
