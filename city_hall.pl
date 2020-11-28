@@ -15,7 +15,7 @@ family(
     ).
 
 family(
-    person(oliver, miller, date(23, july, 1963), works(cnn, 9800)),
+    person(oliver, miller, date(23, july, 1961), unemployed),
     person(karen, miller, date(2, november, 1959), works(logitech, 17500)),
     [person(juliana, miller, date(18, octomber, 1999), student),
     person(helen, miller, date(17, august, 1990), works(ote, 19800))]
@@ -26,3 +26,11 @@ wife(X) :-
     family(_, person(X, _, _, works(_, _)), _).
     
 % exists/1: Retrieve all unemployed parents who were born before 1963.
+% Each for every mother/father
+ exists(X) :-
+    family(_, person(X, _, date(_, _, Y), unemployed), _),
+    Y < 1963.
+    
+ exists(X) :-
+    family(person(X, _, date(_, _, Y), unemployed), _, _),
+    Y < 1963.
