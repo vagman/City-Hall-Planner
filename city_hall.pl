@@ -18,7 +18,9 @@ family(
     person(oliver, miller, date(23, july, 1961), unemployed),
     person(karen, miller, date(2, november, 1959), works(logitech, 17500)),
     [person(juliana, miller, date(18, octomber, 1999), student),
-    person(helen, miller, date(17, august, 1990), works(ote, 19800))]
+    person(helen, miller, date(7, august, 1990), works(ote, 19800)),
+    person(johan, miller, date(10, july, 1999), unemployed),
+    person(david, miller, date(6, june, 1999), unemployed)]
     ).
 
 % wife/1: Retrieve all wives that are working/ employed.
