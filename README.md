@@ -7,7 +7,7 @@
 Παραδοτέο είναι τεκμηριωμένος κώδικας και παραδείγματα σωστής εκτέλεσης.
 ![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/given_family_example.png)
 
-## Coming Soon - ???
+## Second Assignment: Coming Soon
 
 ## General Info
 * This is individual course work in Logical Programming, 5th semester.
