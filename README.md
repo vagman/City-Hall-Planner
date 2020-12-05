@@ -11,6 +11,6 @@
 ## Second Assignment: Coming Soon
 
 ## General Info
-* This is individual course work in Logical Programming, 5th semester.
+* This is individual course work in Logical Programming class, 5th semester.
 * Programming Language: [Prolog](https://www.swi-prolog.org/)
 * Editor that helped me with development: [Visual Studio Code](https://code.visualstudio.com/) with Prolog [plugin](https://code.visualstudio.com/).
