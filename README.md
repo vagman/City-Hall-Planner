@@ -20,7 +20,7 @@
 For the rule wife/1 we work similarly.
 
 ## Second Assignment: List Expert 🔍
-```included_list(X, Y)``` που αληθεύει όταν η Χ είναι μία μη κενή υπο-λίστα της Υ λίστας. 
+Να γραφτεί κατηγόρημα ```included_list(X, Y)``` που αληθεύει όταν η Χ είναι μία μη κενή υπο-λίστα της Υ λίστας. 
 Παράδειγμα:
 
 ```
