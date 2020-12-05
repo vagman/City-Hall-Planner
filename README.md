@@ -8,6 +8,17 @@
 
 ![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/given_family_example.png)
 
+#### Examples for exists/1:
+* **Tom** and **Jane** are employed so `False` is returned but **Ann** is unemployed and born in 1951.
+
+![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/successful%20example%201.jpg)
+
+* **Tommy** and **Jane** are employed but **Oliver** is unemployed and born in 1961.
+
+![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/successful%20example%202.jpg)
+
+For the rule wife/1 we work similarly.
+
 ## Second Assignment: List Expert 🔍
 ```included_list(X, Y)``` που αληθεύει όταν η Χ είναι μία μη κενή υπο-λίστα της Υ λίστας. 
 Παράδειγμα:
