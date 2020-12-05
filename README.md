@@ -6,7 +6,7 @@
 Ορίστε το κατηγόρημα wife/1 και χρησιμοποιήστε το για να ανακτήσετε όλες τις συζύγους που εργάζονται. Ορίστε το κατηγόρημα exists/1 και χρησιμοποιήστε το για να ανακτήσετε όλους τους άνεργους γονείς που γεννήθηκαν πριν το 1963.
 Παραδοτέο είναι τεκμηριωμένος κώδικας και παραδείγματα σωστής εκτέλεσης.
 
-![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/given_family_example.png)
+![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/given_family_example.png)
 
 ## Second Assignment: List Expert 🔍
 ```included_list(X, Y)``` που αληθεύει όταν η Χ είναι μία μη κενή υπο-λίστα της Υ λίστας. 
