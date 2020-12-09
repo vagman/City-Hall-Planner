@@ -20,12 +20,12 @@
 For the rule wife/1 we work similarly.
 
 ## Second Assignment: List Expert 🔍 (WIP)
-Να γραφτεί κατηγόρημα ```included_list(X, Y)``` που αληθεύει όταν η Χ είναι μία μη κενή υπο-λίστα της Υ λίστας. 
+Write the advocate ```included_list(X, Y)``` which returns True when **X is a non-empty sublist of Y list**. 
 Παράδειγμα:
 
 ```
 ?-included_list([1,2], [0, 1, 2, 3]).
-Yes
+true.
 ```
 
 ## General Info
