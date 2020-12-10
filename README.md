@@ -28,6 +28,12 @@ Write the advocate ```included_list(X, Y)``` which returns True when **X is a no
 true.
 ```
 
+**Note**:
+```
+?-included_list([1,2], [0, 1, 0, 2, 3]).
+false.
+```
+
 ## General Info
 * This is individual course work in Logical Programming class, 5th semester.
 * Programming Language: [Prolog](https://www.swi-prolog.org/)
