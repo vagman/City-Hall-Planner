@@ -19,7 +19,7 @@
 
 For the rule wife/1 we work similarly.
 
-## Second Assignment: List Expert 🔍 (WIP)
+## Second Assignment: List Expert 🔍 ([WIP](https://en.wikipedia.org/wiki/Work_in_process))
 Write the advocate ```included_list(X, Y)``` which returns True when **X is a non-empty sublist of Y list**. 
 Παράδειγμα:
 
