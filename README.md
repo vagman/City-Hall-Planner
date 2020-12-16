@@ -1,4 +1,4 @@
-## First Assignment: City Hall Planner 🦺
+## First Assignment: *City Hall Planner* 🦺
 Έστω ότι ένα δημαρχείο έχει μία βάση γνώσης σε Prolog στην οποία αποθηκεύει πληροφορίες για τις οικογένειες που είναι εγγεγραμμένες στο δημοτολόγιό του. Το παρακάτω σχήμα δείχνει πως μπορούν να δομηθούν οι πληροφορίες για κάθε οικογένεια. Κάθε οικογένεια αποθηκεύεται σαν μία δήλωση. Προσέξτε ότι επειδή ο αριθμός τον παιδιών δεν είναι ο ίδιος για κάθε οικογένεια χρησιμοποιείται λίστα που μπορεί να χειριστεί οποιονδήποτε αριθμό παιδιών.  (Κάποια ερωτήματα απαιτούν χρήση αριθμητικών τελεστών που παρουσιάζονται στη σελίδα 214 των διαφανειών.)
 
 Να αναπαρασταθεί η οικογένεια καθώς και 1-2 οικογένειες ακόμη (δική σας επιλογής) χρησιμοποιώντας το κατηγόρημα family/3 και κατάλληλους σύνθετους όρους. 
@@ -19,7 +19,7 @@
 
 For the rule wife/1 we work similarly.
 
-## Second Assignment: List Expert 🔍 ([WIP](https://en.wikipedia.org/wiki/Work_in_process))
+## Second Assignment: *List Expert* 🔍 ([WIP](https://en.wikipedia.org/wiki/Work_in_process))
 Write the advocate ```included_list(X, Y)``` which returns True when **X is a non-empty sublist of Y list**. 
 Παράδειγμα:
 
@@ -33,6 +33,8 @@ true.
 ?-included_list([1,2], [0, 1, 0, 2, 3]).
 false.
 ```
+
+## Third Assignment: *Coming Soon*
 
 ## General Info
 * This is individual course work in Logical Programming class, 5th semester.
