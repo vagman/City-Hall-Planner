@@ -33,7 +33,7 @@ true.
 ?-included_list([1,2], [0, 1, 0, 2, 3]).
 false.
 ```
-
+![Alt text](https://github.com/vagman/logical-programming/blob/main/2nd%20assignment/examples.jpg)
 ## Third Assignment: *Coming Soon*
 
 ## General Info
