@@ -34,7 +34,17 @@ true.
 false.
 ```
 ![Alt text](https://github.com/vagman/logical-programming/blob/main/2nd%20assignment/examples.jpg)
-## Third Assignment: *Coming Soon*
+## Third Assignment: *Computer Parts*
+Develop a Prolog program that represents an object such as e.g. a personal computer.
+
+The program should contain: 
+- Facts that indicate the components of the object (eg power supply, monitor, etc.) and their components (eg for the power supply such as cable, fan, transformer, etc.), component components (e.g. the transformer consists of wire, core, etc.), and so on. The depth of the component hierarchy is not predetermined.
+- Facts that indicate whether the components are made of metal or plastic. 
+
+The program should be able to answer questions such as:
+- Finding components and their sub-components.
+- Finding components that contain metal or plastic 
+- The sum of the components that make up the computer.
 
 ## General Info
 * This is individual course work in Logical Programming class, 5th semester.
