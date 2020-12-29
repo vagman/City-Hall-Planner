@@ -9,17 +9,17 @@
 ![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/given_family_example.png)
 
 #### Examples for exists/1:
-* **Tom** and **Jane** are employed so `False` is returned but **Ann** is unemployed and born in 1951.
+**Tom** and **Jane** are employed so `False` is returned but **Ann** is unemployed and born in 1951.
 
 ![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/successful%20example%201.jpg)
 
-* **Tommy** and **Jane** are employed but **Oliver** is unemployed and born in 1961.
+**Tommy** and **Jane** are employed but **Oliver** is unemployed and born in 1961.
 
 ![Alt text](https://github.com/vagman/City-Hall-Planner/blob/main/1st%20assignment/successful%20example%202.jpg)
 
 For the rule wife/1 we work similarly.
 
-## Second Assignment: *List Expert* 🔍 ([WIP](https://en.wikipedia.org/wiki/Work_in_process))
+## Second Assignment: *List Expert* 🔍
 Write the advocate ```included_list(X, Y)``` which returns True when **X is a non-empty sublist of Y list**. 
 Παράδειγμα:
 
@@ -33,7 +33,7 @@ true.
 ?-included_list([1,2], [0, 1, 0, 2, 3]).
 false.
 ```
-
+![Alt text](https://github.com/vagman/logical-programming/blob/main/2nd%20assignment/examples.jpg)
 ## Third Assignment: *Coming Soon*
 
 ## General Info
