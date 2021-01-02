@@ -34,7 +34,7 @@ true.
 false.
 ```
 ![Alt text](https://github.com/vagman/logical-programming/blob/main/2nd%20assignment/examples.jpg)
-## Third Assignment: *Computer Parts*
+## Third Assignment: *Computer Parts* ⚙️
 Develop a Prolog program that represents an object such as e.g. a personal computer.
 
 The program should contain: 
