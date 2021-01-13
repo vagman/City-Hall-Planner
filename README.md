@@ -46,6 +46,10 @@ The program should be able to answer questions such as:
 - Finding components that contain metal or plastic 
 - The sum of the components that make up the computer.
 
+#### Notes
+* First bullet point: the question will be for a specific component and the answer should return its subcomponents.
+* Third bullet point: the question is for the inital component in general.
+
 ## General Info
 * This is individual course work in Logical Programming class, 5th semester.
 * Programming Language: [Prolog](https://www.swi-prolog.org/)
