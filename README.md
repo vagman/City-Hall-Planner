@@ -53,4 +53,4 @@ The program should be able to answer questions such as:
 ## General Info
 * This is individual course work in Logical Programming class, 5th semester.
 * Programming Language: [Prolog](https://www.swi-prolog.org/)
-* Editor that helped me with development: [Visual Studio Code](https://code.visualstudio.com/) with Prolog [plugin](https://code.visualstudio.com/).
+* Editor that helped me with development: [Visual Studio Code](https://code.visualstudio.com/) with Prolog [plugin](https://code.visualstudio.com/). Note that you have to select "*Prolog*" instead of "*Perl*" in the Select Language Mode, at the right bottom part of your editor.
