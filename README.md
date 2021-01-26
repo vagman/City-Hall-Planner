@@ -42,9 +42,9 @@ The program should contain:
 - Facts that indicate whether the components are made of metal or plastic. 
 
 The program should be able to answer questions such as:
-- Finding components and their sub-components.
-- Finding components that contain metal or plastic 
-- The sum of the components that make up the computer.
+- **Finding components and their sub-components.**
+- **Finding components that contain metal or plastic.** 
+- **The sum of the components that make up the computer.**
 
 #### Notes
 * First bullet point: the question will be for a specific component and the answer should return its subcomponents.
